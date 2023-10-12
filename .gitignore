@@ -42,4 +42,3 @@ build/
 .idea/
 *.iml
 target/
-*pom.xml
